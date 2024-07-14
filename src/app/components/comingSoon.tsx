@@ -7,7 +7,7 @@ export default function ComingSoon() {
                 Coming Soon
             </h1>
             <p className="text-lg text-gray-700 mb-6">
-                We're working hard on this feature. Stay tuned!
+                We&apos;re working hard on this feature. Stay tuned!
             </p>
             <div className="bg-gray-300 h-1 w-32 rounded-full mb-6"></div>
             <p className="text-sm text-gray-600">
